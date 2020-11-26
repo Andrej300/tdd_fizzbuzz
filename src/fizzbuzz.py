@@ -10,3 +10,4 @@ def fizzbuzz(number):
     elif number % 15 == 0:
        return "fizzbuzz"
     
+# THE FUNCTION CREATED SUCCESFULLY
