@@ -7,4 +7,6 @@ def fizzbuzz(number):
         return "fizzbuzz"
     elif number == 4:
         return "4"
+    elif number % 15 == 0:
+       return "fizzbuzz"
     
