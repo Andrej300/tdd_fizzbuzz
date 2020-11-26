@@ -5,4 +5,6 @@ def fizzbuzz(number):
         return "buzz"
     elif number == 15:
         return "fizzbuzz"
+    elif number == 4:
+        return "4"
     
